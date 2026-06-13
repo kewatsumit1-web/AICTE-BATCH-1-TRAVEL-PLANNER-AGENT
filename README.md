@@ -48,7 +48,6 @@ This AI-powered travel agent uses **Google Gemini API** to tailor multi-variable
 ```text
 ├── app.py              # Main Streamlit web application orchestrator
 ├── requirements.txt       # Project dependencies and system requirements
-├── .env                   # Secure private credential safe (Local machine only)
 ├── .gitignore             # Version control exclusion file configuration
 └── README.md              # Project documentation report index
 ```
